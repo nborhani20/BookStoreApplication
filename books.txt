@@ -1,0 +1,4 @@
+Book,123.0
+Bruh,1.23
+Elle,12.4
+Elites,80.0
